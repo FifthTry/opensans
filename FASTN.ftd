@@ -1,10 +1,10 @@
--- import: fpm
+-- import: fastn
 
--- fpm.package: fifthtry.github.io/opensans
+-- fastn.package: fifthtry.github.io/opensans
 zip: github.com/fifthtry/opensans/archive/refs/heads/main.zip
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-cyrillic-ext.woff2
@@ -13,7 +13,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-cyrillic.woff2
@@ -22,7 +22,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-greek-ext.woff2
@@ -31,7 +31,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-greek.woff2
@@ -40,7 +40,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-hebrew.woff2
@@ -49,7 +49,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-vietnamese.woff2
@@ -58,7 +58,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-latin-ext.woff2
@@ -67,7 +67,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-italic-latin.woff2
@@ -76,7 +76,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-cyrillic-ext.woff2
@@ -85,7 +85,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-cyrillic.woff2
@@ -94,7 +94,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-greek-ext.woff2
@@ -103,7 +103,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-greek.woff2
@@ -112,7 +112,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-hebrew.woff2
@@ -121,7 +121,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-vietnamese.woff2
@@ -130,7 +130,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-latin-ext.woff2
@@ -139,7 +139,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-italic-latin.woff2
@@ -148,7 +148,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-cyrillic-ext.woff2
@@ -157,7 +157,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-cyrillic.woff2
@@ -166,7 +166,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-greek-ext.woff2
@@ -175,7 +175,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-greek.woff2
@@ -184,7 +184,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-hebrew.woff2
@@ -193,7 +193,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-vietnamese.woff2
@@ -202,7 +202,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-latin-ext.woff2
@@ -211,7 +211,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-italic-latin.woff2
@@ -220,7 +220,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-cyrillic-ext.woff2
@@ -229,7 +229,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-cyrillic.woff2
@@ -238,7 +238,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-greek-ext.woff2
@@ -247,7 +247,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-greek.woff2
@@ -256,7 +256,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-hebrew.woff2
@@ -265,7 +265,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-vietnamese.woff2
@@ -274,7 +274,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-latin-ext.woff2
@@ -283,7 +283,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-italic-latin.woff2
@@ -292,7 +292,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-cyrillic-ext.woff2
@@ -301,7 +301,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-cyrillic.woff2
@@ -310,7 +310,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-greek-ext.woff2
@@ -319,7 +319,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-greek.woff2
@@ -328,7 +328,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-hebrew.woff2
@@ -337,7 +337,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-vietnamese.woff2
@@ -346,7 +346,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-latin-ext.woff2
@@ -355,7 +355,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-italic-latin.woff2
@@ -364,7 +364,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-cyrillic-ext.woff2
@@ -373,7 +373,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-cyrillic.woff2
@@ -382,7 +382,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-greek-ext.woff2
@@ -391,7 +391,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-greek.woff2
@@ -400,7 +400,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-hebrew.woff2
@@ -409,7 +409,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-vietnamese.woff2
@@ -418,7 +418,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-latin-ext.woff2
@@ -427,7 +427,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: italic
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-italic-latin.woff2
@@ -436,7 +436,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-cyrillic-ext.woff2
@@ -445,7 +445,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-cyrillic.woff2
@@ -454,7 +454,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-greek-ext.woff2
@@ -463,7 +463,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-greek.woff2
@@ -472,7 +472,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-hebrew.woff2
@@ -481,7 +481,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-vietnamese.woff2
@@ -490,7 +490,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-latin-ext.woff2
@@ -499,7 +499,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 300
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-300-normal-latin.woff2
@@ -508,7 +508,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-cyrillic-ext.woff2
@@ -517,7 +517,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-cyrillic.woff2
@@ -526,7 +526,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-greek-ext.woff2
@@ -535,7 +535,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-greek.woff2
@@ -544,7 +544,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-hebrew.woff2
@@ -553,7 +553,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-vietnamese.woff2
@@ -562,7 +562,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-latin-ext.woff2
@@ -571,7 +571,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 400
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-400-normal-latin.woff2
@@ -580,7 +580,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-cyrillic-ext.woff2
@@ -589,7 +589,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-cyrillic.woff2
@@ -598,7 +598,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-greek-ext.woff2
@@ -607,7 +607,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-greek.woff2
@@ -616,7 +616,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-hebrew.woff2
@@ -625,7 +625,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-vietnamese.woff2
@@ -634,7 +634,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-latin-ext.woff2
@@ -643,7 +643,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 500
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-500-normal-latin.woff2
@@ -652,7 +652,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-cyrillic-ext.woff2
@@ -661,7 +661,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-cyrillic.woff2
@@ -670,7 +670,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-greek-ext.woff2
@@ -679,7 +679,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-greek.woff2
@@ -688,7 +688,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-hebrew.woff2
@@ -697,7 +697,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-vietnamese.woff2
@@ -706,7 +706,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-latin-ext.woff2
@@ -715,7 +715,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 600
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-600-normal-latin.woff2
@@ -724,7 +724,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-cyrillic-ext.woff2
@@ -733,7 +733,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-cyrillic.woff2
@@ -742,7 +742,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-greek-ext.woff2
@@ -751,7 +751,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-greek.woff2
@@ -760,7 +760,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-hebrew.woff2
@@ -769,7 +769,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-vietnamese.woff2
@@ -778,7 +778,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-latin-ext.woff2
@@ -787,7 +787,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 700
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-700-normal-latin.woff2
@@ -796,7 +796,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-cyrillic-ext.woff2
@@ -805,7 +805,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-cyrillic.woff2
@@ -814,7 +814,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-greek-ext.woff2
@@ -823,7 +823,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-greek.woff2
@@ -832,7 +832,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-hebrew.woff2
@@ -841,7 +841,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-vietnamese.woff2
@@ -850,7 +850,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-latin-ext.woff2
@@ -859,7 +859,7 @@ stretch: 100%
 
 
 
--- fpm.font: Open-Sans
+-- fastn.font: Open-Sans
 style: normal
 weight: 800
 woff2: -/fifthtry.github.io/opensans/static/Open-Sans-800-normal-latin.woff2
